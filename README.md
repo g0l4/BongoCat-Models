@@ -1,6 +1,4 @@
-# 🐱 Awesome-BongoCat
-
-✨ 汇聚优质第三方 BongoCat 模型，欢迎通过 PR 共建开源社区！
+![Awesome-BongoCat](https://socialify.git.ci/ayangweb/Awesome-BongoCat/image?custom_description=&description=1&font=Source+Code+Pro&forks=1&issues=1&logo=https%3A%2F%2Fgithub.com%2Fayangweb%2FBongoCat%2Fblob%2Fmaster%2Fsrc-tauri%2Fassets%2Flogo-mac.png%3Fraw%3Dtrue&name=1&owner=1&pattern=Brick+Wall&pulls=1&stargazers=1&theme=Auto)
 
 ## 📚 模型列表
 
