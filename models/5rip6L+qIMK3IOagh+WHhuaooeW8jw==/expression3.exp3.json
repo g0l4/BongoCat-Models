@@ -1,0 +1,40 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "Param37",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param32",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param24",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX",
+			"Value": 5.584,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleY",
+			"Value": -24,
+			"Blend": "Add"
+		}
+	]
+}

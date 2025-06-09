@@ -1,0 +1,138 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼"
+		},
+		{
+			"Id": "CatParamLeftHandDown",
+			"GroupId": "",
+			"Name": "左手放下"
+		},
+		{
+			"Id": "CatParamRightHandDown",
+			"GroupId": "",
+			"Name": "右手放下"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "摇动"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "晃腿"
+		},
+		{
+			"Id": "Fly",
+			"GroupId": "",
+			"Name": "翅膀"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "披风"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part17",
+			"Name": "rightup.psd"
+		},
+		{
+			"Id": "Part",
+			"Name": "ｴﾌｶ�"
+		},
+		{
+			"Id": "Part2",
+			"Name": "ｺ�ｵ�ｽ�"
+		},
+		{
+			"Id": "Part3",
+			"Name": "ﾁ�ｺ｣"
+		},
+		{
+			"Id": "Part4",
+			"Name": "ﾎ蟷ﾙ"
+		},
+		{
+			"Id": "Part5",
+			"Name": "ﾅ�ｷ郤�ｵ�ｽ�"
+		},
+		{
+			"Id": "Part6",
+			"Name": "ﾅ�ｷ�"
+		},
+		{
+			"Id": "Part7",
+			"Name": "ﾓﾒﾊﾖ"
+		},
+		{
+			"Id": "Part8",
+			"Name": "ｱﾊ"
+		},
+		{
+			"Id": "Part9",
+			"Name": "ﾗ�ﾊﾖ"
+		},
+		{
+			"Id": "Part11",
+			"Name": "ﾓﾒﾒ｡ｸﾋ"
+		},
+		{
+			"Id": "Part12",
+			"Name": "ﾗ�ﾉﾏｱﾛ"
+		},
+		{
+			"Id": "Part13",
+			"Name": "ｺ�ﾄﾔ"
+		},
+		{
+			"Id": "Part14",
+			"Name": "ﾍﾈ"
+		},
+		{
+			"Id": "Part15",
+			"Name": "ﾗ�ﾒ｡ｸﾋ"
+		},
+		{
+			"Id": "Part16",
+			"Name": "ﾊﾖｱ�"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		]
+	]
+}
