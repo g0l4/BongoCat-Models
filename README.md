@@ -12,7 +12,7 @@
 | 逍遥散人 · 键盘模式   | [@ST 咸猫](https://www.bilibili.com/video/BV1h34y1h7x8)          | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/d228a78a5af470296088a036ffcfce64df7d5e19.png" height="100" alt="逍遥散人 · 键盘模式" /></div>   | [夸克网盘](https://pan.quark.cn/s/5ab7fcaa96fe) |
 | 乃琳 · 标准模式       | [@奶淇琳周报](https://www.bilibili.com/video/BV1Bz4y1t78t)       | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/929b870e4a1f090074399aeaef552b6ae217dde0.png" height="100" alt="乃琳 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/15b08c32832f) |
 | 乃琳 · 键盘模式       | [@奶淇琳周报](https://www.bilibili.com/video/BV1Bz4y1t78t)       | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/a4e3244f955215865f7be108e1961a4f17f12be8.png" height="100" alt="乃琳 · 键盘模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/db1c13530e75) |
-| 皮蛋 · 键盘模式       | [@不要舔我耳朵啊喂](https://www.bilibili.com/video/BV1Ao4y1z774) | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/6f428f34cb1b0023b77e01c14c19ac4fffdba057.png" height="100" alt="皮蛋 · 键盘模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/c8d55dcb3ac7) |
+| 皮蛋 · 标准模式       | [@不要舔我耳朵啊喂](https://www.bilibili.com/video/BV1Ao4y1z774) | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/6f428f34cb1b0023b77e01c14c19ac4fffdba057.png" height="100" alt="皮蛋 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/c8d55dcb3ac7) |
 
 ## 📥 如何贡献模型
 
