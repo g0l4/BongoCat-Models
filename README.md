@@ -15,6 +15,7 @@
 | 皮蛋 · 标准模式       | [@不要舔我耳朵啊喂](https://www.bilibili.com/video/BV1Ao4y1z774) | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/6f428f34cb1b0023b77e01c14c19ac4fffdba057.png" height="100" alt="皮蛋 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/c8d55dcb3ac7) |
 | 绪山真寻 · 标准模式   | [@水無蝉羽](https://www.bilibili.com/video/BV1Ma4y1S7jM)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/b1a5e88d67cbb01b96a04e819bedfc10a6228f0f.png" height="100" alt="绪山真寻 · 标准模式" /></div>   | [夸克网盘](https://pan.quark.cn/s/3fc42646eab3) |
 | 可莉 · 标准模式       | [@喵小爷驾到](https://www.bilibili.com/video/BV19r4y1d7HJ)       | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/2c64629c41558c7e7b838cf1ae580ccf463f0ca5.png" height="100" alt="可莉 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/a5c238ff2bf3) |
+| 河原木桃香 · 标准模式 | [@蚀萤面包坊](https://www.bilibili.com/video/BV1ii421D7Zu)       | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/eb205b72a7241990ab8ee4d881bf26e29f411ceb.png" height="100" alt="河原木桃香 · 标准模式" /></div> | [夸克网盘](https://pan.quark.cn/s/6858d6134c18) |
 
 ## 📥 如何贡献模型
 
