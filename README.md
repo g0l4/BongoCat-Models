@@ -14,6 +14,7 @@
 | 乃琳 · 键盘模式       | [@奶淇琳周报](https://www.bilibili.com/video/BV1Bz4y1t78t)       | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/a4e3244f955215865f7be108e1961a4f17f12be8.png" height="100" alt="乃琳 · 键盘模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/db1c13530e75) |
 | 皮蛋 · 标准模式       | [@不要舔我耳朵啊喂](https://www.bilibili.com/video/BV1Ao4y1z774) | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/6f428f34cb1b0023b77e01c14c19ac4fffdba057.png" height="100" alt="皮蛋 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/c8d55dcb3ac7) |
 | 绪山真寻 · 标准模式   | [@水無蝉羽](https://www.bilibili.com/video/BV1Ma4y1S7jM)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/b1a5e88d67cbb01b96a04e819bedfc10a6228f0f.png" height="100" alt="绪山真寻 · 标准模式" /></div>   | [夸克网盘](https://pan.quark.cn/s/3fc42646eab3) |
+| 可莉 · 标准模式       | [@喵小爷驾到](https://www.bilibili.com/video/BV19r4y1d7HJ)       | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/2c64629c41558c7e7b838cf1ae580ccf463f0ca5.png" height="100" alt="可莉 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/a5c238ff2bf3) |
 
 ## 📥 如何贡献模型
 
