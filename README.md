@@ -17,6 +17,7 @@
 | 可莉 · 标准模式       | [@喵小爷驾到](https://www.bilibili.com/video/BV19r4y1d7HJ)       | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/2c64629c41558c7e7b838cf1ae580ccf463f0ca5.png" height="100" alt="可莉 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/a5c238ff2bf3) |
 | 河原木桃香 · 标准模式 | [@蚀萤面包坊](https://www.bilibili.com/video/BV1ii421D7Zu)       | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/eb205b72a7241990ab8ee4d881bf26e29f411ceb.png" height="100" alt="河原木桃香 · 标准模式" /></div> | [夸克网盘](https://pan.quark.cn/s/6858d6134c18) |
 | 安和昴 · 标准模式     | [@蚀萤面包坊](https://www.bilibili.com/video/BV1ii421D7Zu)       | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/b4eb83f30df14b1d457e034afb17c4ad5e25c56e.png" height="100" alt="安和昴 · 标准模式" /></div>     | [夸克网盘](https://pan.quark.cn/s/891bd1707386) |
+| 井芹仁菜 · 标准模式   | [@蚀萤面包坊](https://www.bilibili.com/video/BV1fJ4m1P7m3)       | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/f7784197ccea577275339f448c2125f86aa1290f.png" height="100" alt="井芹仁菜 · 标准模式" /></div>   | [夸克网盘](https://pan.quark.cn/s/8186406d7554) |
 
 ## 📥 如何贡献模型
 
