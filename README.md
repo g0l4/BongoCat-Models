@@ -25,6 +25,7 @@
 | 小熊猫昊昊 · 键盘模式 | [@猫猫虫有啥坏心思呢](https://www.bilibili.com/video/BV1qz4y1H7E1) | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/55a885210656785dadd49535444160fdfc618187.png" height="100" alt="小熊猫昊昊 · 键盘模式" /></div> | [夸克网盘](https://pan.quark.cn/s/c4753bc07689) |
 | 温蒂 · 标准模式       | [@水酸基](https://www.bilibili.com/video/BV14mKAeFEb6)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/3e47b6635250df2b4ad1e3d9909ada41052e01d1.png" height="100" alt="温蒂 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/719032cf7bcb) |
 | 珊瑚宫心海 · 标准模式 | [@宇痕冫](https://www.bilibili.com/video/BV1FF411f7sN)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/085f4d50d2c67baf0209e926a7802180574edb65.png" height="100" alt="珊瑚宫心海 · 标准模式" /></div> | [夸克网盘](https://pan.quark.cn/s/460e2d3801e7) |
+| 粉红天使 · 标准模式   | [@锦鲤炒锦鲤](https://www.bilibili.com/video/BV1dz4y1D7ub)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/466764d79fc3c960748774a79a5467351e32e68a.png" height="100" alt="粉红天使 · 标准模式" /></div>   | [夸克网盘](https://pan.quark.cn/s/5232d9382a57) |
 
 ## 📥 如何贡献模型
 
