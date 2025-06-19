@@ -22,6 +22,7 @@
 | RUPA · 标准模式       | [@蚀萤面包坊](https://www.bilibili.com/video/BV1kM4m1m7G9)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/4d2c125b03cf6d491426f7de404f47c4bf4e42ac.png" height="100" alt="RUPA · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/5273d5ae845f) |
 | 动力小猫 · 标准模式   | [@松露酱酱](https://www.bilibili.com/video/BV1SS4y1L7Ey)           | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/e87b8e391e66324a03531e672cc94f102a44cb88.png" height="100" alt="动力小猫 · 标准模式" /></div>   | [夸克网盘](https://pan.quark.cn/s/7157b62811ba) |
 | 小熊猫昊昊 · 标准模式 | [@猫猫虫有啥坏心思呢](https://www.bilibili.com/video/BV1qz4y1H7E1) | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/d66310de01a718334c6a057844ab21d9509a23d7.png" height="100" alt="小熊猫昊昊 · 标准模式" /></div> | [夸克网盘](https://pan.quark.cn/s/cc8830fc86d7) |
+| 小熊猫昊昊 · 键盘模式 | [@猫猫虫有啥坏心思呢](https://www.bilibili.com/video/BV1qz4y1H7E1) | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/55a885210656785dadd49535444160fdfc618187.png" height="100" alt="小熊猫昊昊 · 键盘模式" /></div> | [夸克网盘](https://pan.quark.cn/s/c4753bc07689) |
 
 ## 📥 如何贡献模型
 
