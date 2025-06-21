@@ -27,6 +27,7 @@
 | 珊瑚宫心海 · 标准模式 | [@宇痕冫](https://www.bilibili.com/video/BV1FF411f7sN)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/085f4d50d2c67baf0209e926a7802180574edb65.png" height="100" alt="珊瑚宫心海 · 标准模式" /></div> | [夸克网盘](https://pan.quark.cn/s/460e2d3801e7) |
 | 粉红天使 · 标准模式   | [@锦鲤炒锦鲤](https://www.bilibili.com/video/BV1dz4y1D7ub)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/466764d79fc3c960748774a79a5467351e32e68a.png" height="100" alt="粉红天使 · 标准模式" /></div>   | [夸克网盘](https://pan.quark.cn/s/5232d9382a57) |
 | 悠米 · 标准模式       | [@黎息息](https://www.bilibili.com/video/BV1hF411T7Vp)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/8328a55de8885204508dea98c091a9847f521980.png" height="100" alt="悠米 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/bee56445c23b) |
+| 子音 · 标准模式       | [@是阿蚩哟](https://www.bilibili.com/video/BV1us4y1t7PR)           | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/b84b2bc4d64485e4b1ed5ee6d7c678c36164d116.png" height="100" alt="子音 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/9de0725df7dd) |
 
 ## 📥 如何贡献模型
 
