@@ -29,6 +29,7 @@
 | 悠米 · 标准模式       | [@黎息息](https://www.bilibili.com/video/BV1hF411T7Vp)             | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/8328a55de8885204508dea98c091a9847f521980.png" height="100" alt="悠米 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/bee56445c23b) |
 | 子音 · 标准模式       | [@是阿蚩哟](https://www.bilibili.com/video/BV1us4y1t7PR)           | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/b84b2bc4d64485e4b1ed5ee6d7c678c36164d116.png" height="100" alt="子音 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/9de0725df7dd) |
 | 邦布 · 标准模式       | [@4014OvO](https://www.bilibili.com/video/BV1F1421t7HQ)            | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/7f41a80ffa654c04181bc89dba64efba253e2ca7.png" height="100" alt="邦布 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/e83668581b7c) |
+| 籽岷 · 标准模式       | [@是阿蚩哟](https://www.bilibili.com/video/BV1m14y1T7W2)           | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/a22cc82414609bc751922f2c152469d68ff20add.png" height="100" alt="籽岷 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/5f89b9722f64) |
 
 ## 📥 如何贡献模型
 
