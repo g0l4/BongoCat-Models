@@ -31,6 +31,7 @@
 | 邦布 · 标准模式       | [@4014OvO](https://www.bilibili.com/video/BV1F1421t7HQ)            | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/7f41a80ffa654c04181bc89dba64efba253e2ca7.png" height="100" alt="邦布 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/e83668581b7c) |
 | 籽岷 · 标准模式       | [@是阿蚩哟](https://www.bilibili.com/video/BV1m14y1T7W2)           | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/a22cc82414609bc751922f2c152469d68ff20add.png" height="100" alt="籽岷 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/5f89b9722f64) |
 | 艾瑟雅 · 标准模式     | [@网友艾瑟雅](https://www.bilibili.com/video/BV1p94y1v7Pz)         | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/b7425cd8aa03f121acef259402a4d5bc8dce6cc2.png" height="100" alt="艾瑟雅 · 标准模式" /></div>     | [夸克网盘](https://pan.quark.cn/s/1ed25f1ea7fa) |
+| 葬姐 · 标准模式       | [@FlosHana](https://www.bilibili.com/video/BV11UeuzgEQt)           | <div align="center"><img src="https://i0.hdslb.com/bfs/openplatform/55654e1420d54b8c8277fff259f82e30aecac3e3.png" height="100" alt="葬姐 · 标准模式" /></div>       | [夸克网盘](https://pan.quark.cn/s/5a6df9024e40) |
 
 ## 📥 如何贡献模型
 
